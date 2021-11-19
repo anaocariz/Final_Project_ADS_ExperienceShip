@@ -11,8 +11,8 @@ In order for the program to work you must have the python programming language i
 ## Usage
 Once entered the plaform, the platform will guide the user through anything they wish to do. The possibilities are as follows:
   1. Platform will ask if they are a Company or a Student
-      2. Sign in or sign up to the platform?
-          3. Once they have entered the platform through signing in or singing up, the will have the following options:
+  2. Sign in or sign up to the platform?
+  3. Once they have entered the platform through signing in or singing up, the will have the following options:
               - Search for specific companies/students that satisfy a specific industry/degree studied
               - Edit their profie preferences of students/jobs they are looking for
               - Look ath the top 5 students/job recommened to them based on their profile preferences
