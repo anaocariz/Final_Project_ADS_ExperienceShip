@@ -32,7 +32,7 @@ Once entered the plaform, the platform will guide the user through anything they
 
 ## Additional Information (Specific to Final Project of Algorithms and Data Structures Class)
 This program utalizes the following topics learned in class:
-  1. Creation of Class Objects 'Student' and 'Company' with corresponding attributes and methods - Used to create users in the platform and allow them to perform actions such as editing profile, or finding the best jobs/students for them
+  1. Creation of Class Objects 'Student' and 'Company' with corresponding attributes and methods using OOP - Used to create users in the platform and allow them to perform actions such as editing profile, or finding the best jobs/students for them
   2. Heaps - Used to identify the best jobs/students for them based on the amount of characteristics the two users have in common
 
 ## Credits
