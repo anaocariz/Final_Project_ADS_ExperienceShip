@@ -6,7 +6,7 @@ Main functions of the platform:
   2. Companies have access to database of students looking for internships
 
 ## Installation
-In order for the program to work you must have the python programming language installed. Any version between Python 3.6 and 3.8 will work.
+In order for the program to work you must have the python programming language installed. Any version between Python 3.6 and 3.8 will work. You must also have a program to read notebooks such as Google Collaboratory or Jupytor Notebooks, and upload the IPYNB file.
 
 ## Usage
 Once the platform has been entered, the platform will guide the user through anything they wish to do with no need to run seperate sections of the code every time the user wants to do a new action. The process the platform will go through is the following:
