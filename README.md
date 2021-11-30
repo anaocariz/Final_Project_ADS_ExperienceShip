@@ -5,7 +5,7 @@ Main functions of the platform:
   1. Students have access to database of all jobs available from companies that require little to no expereience
   2. Companies have access to database of students looking for internships
 
-## Installation and Libraries7Modules
+## Installation and Libraries/Modules
 * Installation: In order for the program to work you must have the python programming language installed. Any version between Python 3.6 and 3.8 will work. You must also have a program to read notebooks such as Google Collaboratory or Jupytor Notebooks, and upload the IPYNB file.
 * Libraries: To run the code you will need to pip install heapq_max library and import it, if you already have this library installed in your computer, it is not necessary to re-install it. (There is a cell in the code that can do this for you)
   * It is necessary to import the heapq_max module
